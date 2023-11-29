@@ -1,8 +1,31 @@
+"""
 Exercicio 072 - Numero por extenso
 Crie um programa que tenha uma tupla totalmente preenchida com
 uma contagem por extenso, de zero até vinte
 
 Exercicio 073 - Tuplas com times de futebol
-
+Crie uma tupla preenchida com os 20 primeiros colocados
+da tabela do Campeonato Brasileiro de Futebol, na ordem 
+de colocação. Depois mostre
+a) Apenas os 5 primeiros colocados
+b) Os últimos 4 colocados na tabela
+c) uma lista com os times em ordem alfabética
+d) em que posição na tabela está o time da Chapecoense
 
 Exercicio 074 - Maior e menor valores em Tupla
+...
+
+Exercicio 075 - 
+...
+
+Exercicio 076 - 
+...
+
+Exercicio 000 - 
+...
+
+Exercicio 000 - 
+...
+
+END
+"""
